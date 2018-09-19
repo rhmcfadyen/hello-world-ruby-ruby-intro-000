@@ -1,1 +1,1 @@
-puts "Never waste a diamond on a hoe"
+puts "Hello, World!"
